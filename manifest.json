@@ -2,7 +2,6 @@
     "name": "URL to QR Code",
     "version": "1.0.0",
     "manifest_version": 2,
-    "default_locale": "en",
     "description": "Display QR code of current tab's URL.",
     "icons": {
         "16": "icons/qrcode_16x16.png",
